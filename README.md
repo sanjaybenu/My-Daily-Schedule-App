@@ -38,7 +38,7 @@ Slot representing the current hour will be filled with light grey colour.
 Employee can fill the slots as desired and once the button represented by a “floppy icon” is pressed the information will be stored and will be available whenever employee wishes to open this scheduler.
 . 
 
-Add screen shot.
+![2C525B57-5C90-4850-9D9F-AECD5AA49797_1_201_a](https://user-images.githubusercontent.com/105487471/227092036-112fe907-67d2-4226-b07c-2d129c8b5284.jpeg)
 
 
 ## Credits
