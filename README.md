@@ -15,7 +15,7 @@ Slots are also colour coded to indicate if the slot represents the hour which is
 
 When the app is loaded, employee is presented with a page with a heading and current date and time. Time shown keeps updating every 1 sec., to mimic a clock.
 
-Add screenshot
+![A35AFF72-389E-4B40-A862-F14CC5883362_1_105_c](https://user-images.githubusercontent.com/105487471/227089602-cf7ec09d-b1b3-431a-9076-0f6332fb0904.jpeg)
 
 Employee will be presented with a page that will have hourly slots available for the whole workday starting a 8AM till 5 PM in the morning.
 
