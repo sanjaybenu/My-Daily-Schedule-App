@@ -24,7 +24,7 @@ Employee will be presented with a page that will have hourly slots available for
 
 Hourly slots that will be in the past in relations to the current hour will be filled with light red colour.
 
-Add screenshot
+![4CA79A59-B2DD-4047-BF6D-7F750B3BAFC1](https://user-images.githubusercontent.com/105487471/227090111-ed2f61dc-e5c1-4371-96bd-e3a7ec1559ca.jpeg)
 
 Hourly slots that will be in the future in relations to the current hour will be filled with light green colour.
 
