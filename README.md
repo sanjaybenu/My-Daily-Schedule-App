@@ -28,7 +28,8 @@ Hourly slots that will be in the past in relations to the current hour will be f
 
 Hourly slots that will be in the future in relations to the current hour will be filled with light green colour.
 
-Add screen shot
+![84529148-C6D3-47A3-9492-3554BA8260F0_1_105_c](https://user-images.githubusercontent.com/105487471/227091407-bc31fbe8-67a1-4f79-8980-e953dc678a86.jpeg)
+
 
 Slot representing the current hour will be filled with light grey colour.
 
