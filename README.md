@@ -19,7 +19,8 @@ When the app is loaded, employee is presented with a page with a heading and cur
 
 Employee will be presented with a page that will have hourly slots available for the whole workday starting a 8AM till 5 PM in the morning.
 
-Add screenshot
+<img width="334" alt="7D5337B8-21A5-47AD-B87A-90D6DCE83D72" src="https://user-images.githubusercontent.com/105487471/227089744-60dfafe5-d238-429a-9ef9-0b6136786735.png">
+
 
 Hourly slots that will be in the past in relations to the current hour will be filled with light red colour.
 
