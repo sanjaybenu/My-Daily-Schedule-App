@@ -32,7 +32,7 @@ Add screen shot
 
 Slot representing the current hour will be filled with light grey colour.
 
-Add screen shot
+![EE40F400-2E6C-42D4-B80D-9FF7486B58BC](https://user-images.githubusercontent.com/105487471/227091092-edb53411-f8fd-41a0-bbaf-8ef3d48f8355.jpeg)
 
 Employee can fill the slots as desired and once the button represented by a “floppy icon” is pressed the information will be stored and will be available whenever employee wishes to open this scheduler.
 . 
