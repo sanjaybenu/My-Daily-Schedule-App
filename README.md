@@ -40,7 +40,7 @@ Employee can fill the slots as desired and once the button represented by a “f
 
 ![2C525B57-5C90-4850-9D9F-AECD5AA49797_1_201_a](https://user-images.githubusercontent.com/105487471/227092036-112fe907-67d2-4226-b07c-2d129c8b5284.jpeg)
 
-
+App can be reached at by click https://sanjaybenu.github.io/My-Daily-Schedule-App/
 ## Credits
 
 I would like to thank my instructor Jack Song  and TA Siddharth Baral of Monash Bootcamp for teaching basic concepts of HTML, CSS  and basics of Javascript that has helped me to make this website.
